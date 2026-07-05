@@ -1,0 +1,11 @@
+[{
+    "TestID" : "TC001",
+    "Username" : "dilip@testleaf.com",
+    "Password" : "Leaf@123"
+},
+{
+"TestID" : "TC002",
+    "Username" : "dilipkumar.rajendran@testleaf.com",
+    "Password" : "TestLeaf@2025"
+
+}]
